@@ -22,7 +22,7 @@
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/azharahmedsyed09/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/azharahmedsyed09/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets of all Fiscal Years](https://github.com/azharahmedsyed09/Excel-Sales-Analytics/blob/main/P%20%26%20L%20By%20country%20all%20years.pdf)_ &  [2021 Market](https://github.com/azharahmedsyed09/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+   **2.** Create Profit and Loss (P&L) reports by _[Markets of all Fiscal Years](https://github.com/azharahmedsyed09/Excel-Sales-Analytics/blob/main/P%20%26%20L%20By%20country%20all%20years.pdf)_ &  [_2021 Market_](https://github.com/azharahmedsyed09/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
